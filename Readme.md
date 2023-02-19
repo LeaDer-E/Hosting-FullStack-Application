@@ -72,7 +72,7 @@ Start the server
 ```
 
 ```diff
-Don't Forget to set your ".env" File, and open the server.ts from udacity-api, and make sure the database are works fine
+- Don't Forget to set your ".env" File, and open the server.ts from udacity-api, and make sure the database are works fine
 ```
 
 
