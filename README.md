@@ -93,7 +93,7 @@ expected.
 
 [issue]: https://github.com/LeaDer-E/Hosting-FullStack-Application/issues/new
 
-## Demo Vedio
+## Demo Video
 [![Watch the video](https://user-images.githubusercontent.com/99460904/179158938-e161db4b-c111-446a-ab21-0da683a6e8d2.png)](https://youtu.be/TU2rtG3TuGQ)
 
 
